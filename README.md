@@ -1,10 +1,3 @@
-# wtf-gulp-starter
-
-`npm install -g gulp-cli`
-
-`npm install`
-
-`gulp`
-
-To publish your page using github pages use `npm run deploy`
-"# API-test" 
+# API-test
+Nothing complicated. Only list of my repositories for training in work with API
+That's all. You can go further :)
